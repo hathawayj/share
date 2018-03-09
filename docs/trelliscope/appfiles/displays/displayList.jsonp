@@ -1,0 +1,12 @@
+__loadDisplayList__6ef1dc6b([
+  {
+    "group": "common",
+    "name": "by_health_estbl_code_state_name",
+    "desc": "",
+    "n": 20791,
+    "height": 500,
+    "width": 650,
+    "updated": "2018-03-09 10:48:12",
+    "keySig": "658fae158a520dee21bea84874809635"
+  }
+])
